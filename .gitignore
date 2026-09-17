@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+local/
+CLAUDE.local.md
+.claude/settings.local.json
+*.tmp
+*.swp
+*~
+__pycache__/
+.venv/
